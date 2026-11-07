@@ -6,7 +6,7 @@
 
 ### Bodyweight tracking that shows the trend, not the noise.
 
-![version](https://img.shields.io/badge/version-1.0.0-3a5f82)
+![version](https://img.shields.io/badge/version-1.1.0-3a5f82)
 ![platform](https://img.shields.io/badge/Android-7.0%2B-2c2c2c?logo=android&logoColor=white)
 ![license](https://img.shields.io/badge/license-Proprietary-8fc4d6)
 
